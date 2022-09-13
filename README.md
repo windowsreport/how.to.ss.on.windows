@@ -1,6 +1,6 @@
 # how to ss on windows
 
-[![how to ss on windows](gett-stateed.png)](https://github.com/windowsreport/how.to.ss.on.windows/)
+[![how to ss on windows](gett-stateed.png)](https://icncomputer.com/how-to-ss-on-windows/)
 
 Press Ctrl + PrtScn keys. The entire screen changes to gray including the open menu. Select Mode, or in earlier versions of Windows, select the arrow next to the New button. Select the kind of snip you want, and then select the area of the screen capture that you want to capture.
 
